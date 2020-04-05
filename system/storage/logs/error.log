@@ -1,0 +1,29 @@
+2020-01-29 7:27:35 - PHP Warning:  fopen(/var/www/html/finerlabel_new/cms/system/storage/cache/cache.catalog.language.1580286455): failed to open stream: No such file or directory in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 49
+2020-01-29 7:27:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 51
+2020-01-29 7:27:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 53
+2020-01-29 7:27:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 55
+2020-01-29 7:27:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 57
+2020-01-29 7:27:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 59
+2020-01-29 7:27:35 - PHP Warning:  fopen(/var/www/html/finerlabel_new/cms/system/storage/cache/cache.currency.1580286455): failed to open stream: No such file or directory in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 49
+2020-01-29 7:27:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 51
+2020-01-29 7:27:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 53
+2020-01-29 7:27:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 55
+2020-01-29 7:27:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 57
+2020-01-29 7:27:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/finerlabel_new/cms/system/library/cache/file.php on line 59
+2020-03-09 7:12:29 - PHP Warning:  unlink(/var/www/finerlab.dn/storage/cache/cache.catalog.language.1583741549): No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 68
+2020-03-10 5:14:16 - PHP Warning:  unlink(/var/www/finerlab.dn/storage/cache/cache.catalog.language.1583820856): No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 68
+2020-03-10 5:26:42 - PHP Warning:  fopen(/var/www/finerlab.dn/storage/cache/cache.catalog.language.1583821602): failed to open stream: No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 49
+2020-03-10 5:26:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 51
+2020-03-10 5:26:42 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 53
+2020-03-10 5:26:42 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 55
+2020-03-10 5:26:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 57
+2020-03-10 5:26:42 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 59
+2020-03-10 5:26:42 - PHP Warning:  fopen(/var/www/finerlab.dn/storage/cache/cache.currency.1583821602): failed to open stream: No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 49
+2020-03-10 5:26:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 51
+2020-03-10 5:26:42 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 53
+2020-03-10 5:26:42 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 55
+2020-03-10 5:26:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 57
+2020-03-10 5:26:42 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 59
+2020-03-10 5:54:17 - PHP Warning:  unlink(/var/www/finerlab.dn/storage/cache/cache.catalog.language.1583823257): No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 68
+2020-03-30 5:10:03 - PHP Warning:  unlink(/var/www/finerlab.dn/storage/cache/cache.catalog.language.1585548603): No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 68
+2020-03-30 7:05:05 - PHP Warning:  unlink(/var/www/finerlab.dn/storage/cache/cache.catalog.language.1585555505): No such file or directory in /var/www/finerlab.dn/public_html/system/library/cache/file.php on line 68
